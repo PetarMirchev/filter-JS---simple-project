@@ -1,6 +1,8 @@
 # filter-JS---simple-project
 filter JS - simple project - HTML, CSS, JavaScript
 
+DEMO --> https://petarmirchev.github.io/filter-JS---simple-project/
+
 filter by ---> 
 
 1 - by NAME
